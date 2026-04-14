@@ -45,3 +45,9 @@ streamlit run app.py
 
 Video Game Sales — Kaggle
 https://www.kaggle.com/datasets/gregorut/videogamesales
+
+## Autor
+
+**Santiago Herrera Tafur**  
+Ingeniero de Sistemas | Máster en Big Data — Universidad Europea de Madrid  
+[LinkedIn](https://www.linkedin.com/in/santiago-herrera-tafur-463887161) · [GitHub](https://github.com/santyherrera12)
