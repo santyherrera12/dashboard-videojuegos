@@ -1,0 +1,51 @@
+Rank,Name,Platform,Year,Genre,Publisher,NA_Sales,EU_Sales,JP_Sales,Other_Sales,Global_Sales
+1,Wii Sports,Wii,2006,Sports,Nintendo,41.49,29.02,3.77,8.46,82.74
+2,Super Mario Bros.,NES,1985,Platform,Nintendo,29.08,3.58,6.81,0.77,40.24
+3,Mario Kart Wii,Wii,2008,Racing,Nintendo,15.85,12.88,3.79,3.31,35.83
+4,Wii Sports Resort,Wii,2009,Sports,Nintendo,15.75,11.01,3.28,2.96,33.00
+5,Pokemon Red/Pokemon Blue,GB,1996,Role-Playing,Nintendo,11.27,8.89,10.22,1.00,31.38
+6,Tetris,GB,1989,Puzzle,Nintendo,23.20,2.26,4.22,0.58,30.26
+7,New Super Mario Bros.,DS,2006,Platform,Nintendo,11.38,9.23,6.50,2.90,30.01
+8,Wii Play,Wii,2006,Misc,Nintendo,14.03,9.20,2.93,2.85,29.01
+9,New Super Mario Bros. Wii,Wii,2009,Platform,Nintendo,14.59,7.06,4.70,2.26,28.62
+10,Duck Hunt,NES,1984,Shooter,Nintendo,26.93,0.63,0.28,0.47,28.31
+11,Nintendogs,DS,2005,Simulation,Nintendo,9.07,11.00,1.93,2.75,24.76
+12,Mario Kart DS,DS,2005,Racing,Nintendo,9.81,7.57,4.13,1.92,23.42
+13,Pokemon Gold/Pokemon Silver,GB,2000,Role-Playing,Nintendo,9.00,6.18,7.20,0.71,23.10
+14,Wii Fit,Wii,2007,Sports,Nintendo,8.94,8.03,3.60,2.15,22.72
+15,Wii Fit Plus,Wii,2009,Sports,Nintendo,9.09,8.59,2.53,1.79,21.82
+16,Kinect Adventures!,X360,2010,Misc,Microsoft Game Studios,15.00,4.89,0.24,1.69,21.82
+17,Grand Theft Auto V,PS3,2013,Action,Take-Two Interactive,7.01,9.27,0.97,4.14,21.40
+18,Grand Theft Auto: San Andreas,PS2,2004,Action,Take-Two Interactive,9.43,0.40,0.41,10.57,20.81
+19,Super Mario World,SNES,1990,Platform,Nintendo,12.78,3.75,3.54,0.55,20.61
+20,Brain Age,DS,2005,Misc,Nintendo,4.75,9.26,4.16,2.05,20.22
+21,Pokemon Diamond/Pokemon Pearl,DS,2006,Role-Playing,Nintendo,6.42,4.52,6.04,1.37,18.36
+22,Super Mario Land,GB,1989,Platform,Nintendo,10.83,2.71,4.18,0.42,18.14
+23,Super Mario Bros. 3,NES,1988,Platform,Nintendo,9.54,3.44,3.84,0.46,17.28
+24,Grand Theft Auto V,X360,2013,Action,Take-Two Interactive,9.63,5.31,0.06,1.38,16.38
+25,Grand Theft Auto: Vice City,PS2,2002,Action,Take-Two Interactive,8.41,5.49,0.47,1.78,16.15
+26,Pokemon Black/Pokemon White,DS,2010,Role-Playing,Nintendo,5.57,3.28,5.65,1.18,15.68
+27,Brain Age 2,DS,2005,Misc,Nintendo,3.44,5.33,5.33,1.49,15.59
+28,Gran Turismo 3: A-Spec,PS2,2001,Racing,Sony Computer Entertainment,6.85,5.09,1.87,1.16,14.98
+29,Call of Duty: Modern Warfare 3,X360,2011,Shooter,Activision,9.03,3.48,0.10,1.29,13.90
+30,Call of Duty: Black Ops,X360,2010,Shooter,Activision,9.67,3.73,0.11,1.13,14.64
+31,Pokemon X/Pokemon Y,3DS,2013,Role-Playing,Nintendo,4.64,4.24,3.96,1.16,14.01
+32,FIFA 16,PS4,2015,Sports,Electronic Arts,1.08,7.49,0.07,1.50,10.14
+33,FIFA 17,PS4,2016,Sports,Electronic Arts,1.02,7.28,0.06,1.46,9.83
+34,Call of Duty: Black Ops II,PS3,2012,Shooter,Activision,4.99,3.77,0.29,1.33,10.38
+35,Call of Duty: Modern Warfare 2,X360,2009,Shooter,Activision,8.52,3.08,0.10,0.99,12.69
+36,The Elder Scrolls V: Skyrim,X360,2011,Role-Playing,Bethesda Softworks,5.89,3.36,0.12,1.02,10.39
+37,Red Dead Redemption,X360,2010,Action,Take-Two Interactive,5.31,3.52,0.13,0.95,9.91
+38,Minecraft,X360,2013,Misc,Microsoft Game Studios,4.93,3.42,0.15,0.91,9.41
+39,FIFA 15,PS4,2014,Sports,Electronic Arts,1.02,6.57,0.05,1.35,9.00
+40,The Legend of Zelda: Ocarina of Time,N64,1998,Action,Nintendo,4.10,2.93,3.53,0.56,11.11
+41,Halo 3,X360,2007,Shooter,Microsoft Game Studios,7.97,2.48,0.13,0.82,11.40
+42,Pokemon HeartGold/SoulSilver,DS,2009,Role-Playing,Nintendo,4.40,2.77,3.96,0.77,11.90
+43,Need for Speed: Most Wanted,PS2,2005,Racing,Electronic Arts,3.49,2.27,0.34,0.86,6.96
+44,Gran Turismo 4,PS2,2004,Racing,Sony Computer Entertainment,3.01,3.49,1.10,0.98,11.66
+45,Crash Bandicoot 2,PS,1997,Platform,Sony Computer Entertainment,4.24,3.80,0.55,0.70,9.29
+46,Resident Evil 5,PS3,2009,Action,Capcom,2.39,2.32,0.78,0.88,6.36
+47,Halo: Reach,X360,2010,Shooter,Microsoft Game Studios,6.56,2.08,0.11,0.73,9.48
+48,Batman: Arkham City,X360,2011,Action,Warner Bros. Interactive Entertainment,3.56,2.03,0.09,0.73,6.41
+49,Call of Duty: Ghosts,X360,2013,Shooter,Activision,6.12,2.35,0.08,0.87,9.42
+50,Just Dance 3,Wii,2011,Misc,Ubisoft,4.63,3.23,0.05,0.95,8.86
